@@ -1,3 +1,4 @@
+#include<stdio.h>
 int main(){
     float m1,m2,m3,m4,m5;
     printf("enter marks in all subjects; \n");
@@ -14,7 +15,5 @@ int main(){
         printf("third devision");
     }
     else {
-        printf("fail"#include <stdio.h>
-);
-    }
+        printf("fail")}
 }
