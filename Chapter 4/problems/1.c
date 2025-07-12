@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 
 int main(){
@@ -19,3 +20,5 @@ int main(){
         printf("fail");
     }
 }
+=======
+>>>>>>> b74454f672321139a6a8674c961ba4e9fb0d4d28
